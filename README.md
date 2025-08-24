@@ -1,6 +1,6 @@
 <h1><p align="center">Hola, Soy Kiara! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Gatito" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVqd28zemZheWZpdzZ0amdkOThtOWI3d2libWFsODR0c3loaHl5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi:***
 
